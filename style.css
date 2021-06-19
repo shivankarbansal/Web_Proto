@@ -1,0 +1,288 @@
+#blank {
+    background-color: #f6b89e;
+}
+
+.col1 {
+    float: left;
+    width: 50%;
+    background-color: #fefebe;
+}
+
+.col2 {
+    float: left;
+    width: 33.33%;
+}
+
+.col3 {
+    float: left;
+    width: 50%;
+    background-color: #f6b89e;
+}
+
+.col4 {
+    float: left;
+    width: 50%;
+    background-color: whitesmoke;
+}
+
+#u1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fefebe;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: whitesmoke;
+}
+
+.active {
+    font-size: 28px;
+}
+
+.topnav-right {
+    float: right;
+}
+
+#h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+}
+
+#p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding: 5px 15px;
+    line-height: 200%;
+}
+
+#b1 {
+    background-color: #fefebe;
+    border: 2px solid black;
+}
+
+#b1 a {
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#b2 {
+    background-color: #fefebe;
+    border: none;
+}
+
+#b2 a {
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding: 15px 35px;
+    line-height: 200%;
+}
+
+#p3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding: 15px 35px;
+    line-height: 200%;
+    text-align: center;
+}
+
+#p4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px 45px;
+    line-height: 100%;
+}
+
+#b3 {
+    background-color: #f6b89e;
+    border: 2px solid black;
+}
+
+#b3 a {
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+#b4 {
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+
+#b4 a {
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.card {
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1200px;
+    max-height: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: #f6b89e;
+}
+
+input {
+    width: 275px;
+    height: 45px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+#p5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px 45px;
+    line-height: 150%;
+}
+
+#u2 {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: 15%;
+    width: 50%;
+    list-style-type: none;
+}
+
+#l2 {
+    text-decoration: none;
+    color: #8D021F;
+}
+
+.card.box {
+    border: 1px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1200px;
+    max-height: 2500px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+
+.col5 {
+    float: left;
+    width: 20%;
+    padding: 15px 25px;
+}
+
+#bb6 {
+    background-color: whitesmoke;
+    border: 2px solid black;
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 14px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#b6 {
+    color: black;
+    text-decoration: none;
+}
+
+.card-text {
+    border-radius: 5%;
+    max-width: 700px;
+    max-height: 500px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 5px 15px;
+}
+
+.col7 {
+    float: left;
+    width: 28%;
+    padding: 15px 25px;
+}
+
+.card.txt {
+    max-width: 1200px;
+    max-height: 2500px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+
+.col8 {
+    float: left;
+    width: 16.66%;
+}
+
+#u3 {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    list-style-type: none;
+}
+
+#i11 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foot {
+    background-color: #fefebe;
+    height: 400px;
+}
+
+#u4 {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: 15%;
+    width: 50%;
+    list-style-type: none;
+    background-color: #fefebe;
+}
+
+span {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #fabd02;
+}
